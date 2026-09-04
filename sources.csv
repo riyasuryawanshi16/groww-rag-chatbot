@@ -1,0 +1,24 @@
+source_id,organization,category,title,url,description
+SRC01,Groww,Basics,Groww Mutual Funds Hub,https://groww.in/mutual-funds,Comprehensive portal for exploring mutual fund categories SIP tracking and direct investment on Groww.
+SRC02,Groww,Basics,Types of Mutual Funds Guide,https://groww.in/p/types-of-mutual-funds,Fundamental definition pooling of funds professional asset management and portfolio diversification.
+SRC03,Groww,Basics,Systematic Investment Plan (SIP),https://groww.in/p/sip-systematic-investment-plan,Detailed explanation of SIP compounding rupee cost averaging and disciplined regular investing.
+SRC04,Groww,Basics,Groww Mutual Funds Direct Plans,https://groww.in/mutual-funds,Calculation of unit NAV market value of assets minus liabilities divided by outstanding units.
+SRC05,Groww,Basics,Expense Ratio in Mutual Funds,https://groww.in/p/mutual-funds/expense-ratio,Annual fee percentage charged by AMC for fund management administration and regulatory overhead.
+SRC06,Groww,Large-Cap,Best Large Cap Mutual Funds,https://groww.in/mutual-funds/category/best-large-cap-mutual-funds,Overview of large-cap schemes investing in top 100 established companies by market capitalization.
+SRC07,Groww,Flexi-Cap,Best Flexi Cap Mutual Funds,https://groww.in/mutual-funds/category/best-flexi-cap-mutual-funds,Multi-market cap schemes investing flexibly across large-cap mid-cap and small-cap companies.
+SRC08,Groww,ELSS,Groww ELSS Tax Saver Direct Plan,https://groww.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth,Equity Linked Savings Scheme with Section 80C tax deduction and statutory 3-year lock-in period.
+SRC09,Groww,Operations,Groww Mutual Fund Operational FAQs,https://groww.in/mutual-funds,SEBI and Groww operational cut-off times for same-day NAV allocation on subscription and redemption.
+SRC10,Groww,Operations,Exit Load in Mutual Funds,https://groww.in/p/mutual-funds/exit-load-in-mutual-funds,Fee levied by asset management companies on redemption prior to the specified minimum holding period.
+SRC11,SEBI,Regulations,SEBI Mutual Funds Portal,https://www.sebi.gov.in/,Regulatory statutory answers to mutual fund structure custodian roles and investor rights.
+SRC12,SEBI,Regulations,SEBI Categorization of Schemes,https://www.sebi.gov.in/legal/circulars/oct-2017/categorization-and-rationalization-of-mutual-fund-schemes_36199.html,Mandatory SEBI circular standardizing 36 mutual fund categories across Equity Debt and Hybrid.
+SRC13,SEBI,Regulations,SEBI Investor Website,https://investor.sebi.gov.in/,Official regulatory investor awareness portal explaining risk-return profiles and grievance redressal.
+SRC14,SEBI,Regulations,SEBI Regulatory Framework,https://www.sebi.gov.in/,Regulatory framework mandating monthly risk evaluation across 6 distinct Risk-o-meter levels.
+SRC15,AMFI,Basics,AMFI India Official Portal,https://www.amfiindia.com/,AMFI knowledge repository defining trust structure unit holding and investor protection.
+SRC16,AMFI,Classification,AMFI Scheme Classification,https://www.amfiindia.com/,Industry body classification of open-ended close-ended growth and income schemes.
+SRC17,AMFI,Operations,AMFI KYC Guidelines,https://www.amfiindia.com/,Mandatory Know Your Customer verification requirements PAN validation and KRA registration.
+SRC18,AMFI,Regulations,AMFI Risk-o-meter Standards,https://www.amfiindia.com/,Detailed methodology for calculating risk levels: Low Low-to-Moderate Moderate Moderately-High High Very-High.
+SRC19,SBI Mutual Fund,Large-Cap,SBI Bluechip Fund Direct Growth,https://groww.in/mutual-funds/sbi-large-cap-direct-plan-growth,Large-cap open-ended equity scheme investing predominantly in top 100 stocks benchmarked to S&P BSE 100 TRI.
+SRC20,SBI Mutual Fund,Flexi-Cap,SBI Flexicap Fund Direct Growth,https://groww.in/mutual-funds/sbi-flexicap-fund-direct-growth,Flexi-cap open-ended dynamic equity scheme benchmarked to S&P BSE 500 TRI with min 65% equity allocation.
+SRC21,SBI Mutual Fund,ELSS,SBI ELSS Tax Saver Fund Direct Growth,https://groww.in/mutual-funds/sbi-elss-tax-saver-fund-direct-growth,Open-ended ELSS with 3-year statutory lock-in offering tax deductions under Section 80C of the Income Tax Act.
+SRC22,Groww,Large-Cap,Groww Large Cap Fund Direct Plan,https://groww.in/mutual-funds/groww-large-cap-fund-direct-growth,Official Groww Large Cap Fund scheme page with expense ratio and benchmark details.
+SRC23,Groww,ELSS,Groww ELSS Tax Saver Fund Direct Plan,https://groww.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth,Official Groww ELSS Tax Saver scheme page with 3-year lock-in and 80C details.
